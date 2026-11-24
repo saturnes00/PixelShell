@@ -1,0 +1,4 @@
+PySide6-Essentials>=6.6
+numpy
+pillow
+pyobjc-framework-Cocoa; sys_platform == "darwin"
